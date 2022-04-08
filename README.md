@@ -41,7 +41,7 @@ default_args = {
     'owner': 'rock',
     'depends_on_past': False,
     'start_date': startDate,
-    'email': ['rock.chen@atrustek.com'],
+    'email': ['rock@example.com'],
     'email_on_failure': True, # Error send email
     'email_on_retry': False,
     'retries': 1,
